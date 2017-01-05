@@ -29,6 +29,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-# Logs directory for lut logs
-
-/[Ll]ogs/
+# Ignore LUT Log .txt files
+/Logs/*.txt
